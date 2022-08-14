@@ -48,8 +48,8 @@
 
 3. difference between print() and return 
 
-      print() - it returns Nonetype as data types 
-      return - it returns the datatypes as it is *(declared) , not change the data types of the variable
+   1. print() - it returns Nonetype as data types 
+   2. return - it returns the datatypes as it is *(declared) , not change the data types of the variable
       
 4. 
  
