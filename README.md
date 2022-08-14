@@ -43,7 +43,7 @@
  **FUNCTIONS : **
 
 1. a,b,c,d = test() # fundction call # test() returns 4 elements and each element stored in each variable
-2. _,_,_, d = test()  # function call -> #  _,_,_, this is call placeholders , test() returns 4 elements but i want only one element that is d
+2. _,_,_, d = test()  # function call -> #  _,_,_,  this (underscore) is called placeholders , test() returns 4 elements but i want only one element that is d
 3. 
  
  
