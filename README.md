@@ -43,8 +43,14 @@
  **FUNCTIONS : **
 
 1. a,b,c,d = test() # fundction call # test() returns 4 elements and each element stored in each variable
+
 2. _,_,_, d = test()  # function call -> #  _,_,_,  this (underscore) is called placeholders , test() returns 4 elements but i want only one element that is d
-3. 
+
+3. difference between print() and return 
+      print() - it returns Nonetype as data types 
+      return - it returns the datatypes as it is *(declared) , not change the data types of the variable
+      
+4. 
  
  
  
