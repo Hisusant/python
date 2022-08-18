@@ -9,13 +9,13 @@
      
      l.append(4), l.append([3,4,5,9])- append the element to the list as it is, bedefault add at the last
      
-     l.extend(4) - not work as int value can't iterate, l.extend([23,44,33}) - it will unrap the list and add one by one to the list , 
+     l.extend(4) - not work as int value can't iterate, l.extend([23,44,33}) - it will unwrap the list and add one by one to the list , 
      
-     l.extend('susant')- it will unrap and add like 's', 'u', 's','a','n','t'
+     l.extend('susant')- it will unwrap and add like 's', 'u', 's','a','n','t'
      
      l.sort()- sorted the list in ascending order, l.sort(reverse=true)- sorted in decending order
      
-     l.index('susant') - return index number of the specific element
+     l.index('susant') - return index number of the specific element #
      
      l.pop(5) - remove element based on index, by default removes from the last elements, it is not removes permanently, just removes in the run time
      
