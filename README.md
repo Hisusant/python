@@ -54,7 +54,34 @@
 4. 
  
  
+EXCEPTION HANDLING : Handling run time error is called exception handling
+
+ code flow :  source code -> compiler( here we get syntax error) -> byte code/machine code -> interpreter ( here we get run time error)
  
+ error : 
+   1. compile time error - syntax error are known as compile error
+   2. run time error - handling run time error is know as exception handling
  
+ why we use exception in our program ? 
+
+    1- Handling run time error if not do then it will not execute next line of code. 
+    2. if we use exception handling , if any error occures during run time then it will handle the error and execute all codes
+    3. if we don't use exception, if error occures then it will not execute next line of code, it will stop there where exception occures. 
+    
+  There are 5 keywords that are : 
+     try :
+      block of code...
+     except:
+      block of code
+     raise:
+      block of code
+     finally:
+      block of code
+     else:
+      block of code
+      
+  
+     
+
  
  
