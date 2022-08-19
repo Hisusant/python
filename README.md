@@ -81,7 +81,12 @@ EXCEPTION HANDLING : Handling run time error is called exception handling
       block of code
       
   
-     
+ NUMPY : 
+ np.random(100)--- generate random numbers in between 0 to 100
+ 
+ np.random.rand(100,3)-- create postitives floting number
+ 
+ np.random.randn(100,3) -- creates negetive floating numbers
 
  
  
